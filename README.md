@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Nam</h1>
-<h3 align="center">A Fullstack developer from Da Nang, Viet Nam</h3>
+<h3 align="center">A Frontend developer from Da Nang, Viet Nam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
